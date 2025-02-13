@@ -19,6 +19,10 @@ SharpLoader是一个独立于Fabric/Forge/NeoForge的新型Minecraft模组加载
 
 ## TODO
 
+#### 本项目
+- [ ] ...
+
+#### 其他组成部分
 - [ ] SharpLoader 本体
 - [ ] SharpAPI
 - [ ] ...
