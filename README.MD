@@ -12,7 +12,7 @@ SharpLoader是一个独立于Fabric/Forge/NeoForge的新型Minecraft模组加载
 > 由于技术限制，当前版本的SharpLoader无法直接加载C#托管DLL文件，
 > 需要为C# DLL启用AOT编译(.NET 8+)，才能被JNI/JNA调用。
 > 
-> 在其他高性能的跨JVM/CLR调用方法出现之前，SharpLoader只能加载C# AOT编译的DLL文件。
+> **在其他高性能的跨JVM/CLR调用方法出现之前，SharpLoader只能加载C# AOT编译的DLL文件。**
 > 
 > **优点：**
 > - 更多平台支持
