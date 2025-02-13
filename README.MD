@@ -27,11 +27,14 @@ SharpLoader是一个独立于Fabric/Forge/NeoForge的新型Minecraft模组加载
 
 ## 项目组成
 
+[SharpAPI C# (未实现)](https://github.com/YELANDAOKONG/SharpAPI)
+
 > TODO...
 
 ## TODO
 
 #### 本项目
+- [ ] SharpClassTransformer
 - [ ] ...
 
 #### 其他组成部分
