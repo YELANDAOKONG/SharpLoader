@@ -20,6 +20,7 @@ SharpLoader是一个独立于Fabric/Forge/NeoForge的新型Minecraft模组加载
 > **缺点：**
 > - 失去了C#的动态特性
 
+> ### **！当前项目可能开发缓慢！**
 
 [文档中心](docs/INDEX.MD)
 
@@ -35,6 +36,7 @@ SharpLoader是一个独立于Fabric/Forge/NeoForge的新型Minecraft模组加载
 
 #### 本项目
 - [ ] SharpClassTransformer
+- [ ] InfoDependencies / InfoRequirements
 - [ ] ...
 
 #### 其他组成部分
